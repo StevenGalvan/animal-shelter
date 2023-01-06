@@ -1,5 +1,5 @@
 .column {
-  width: 300px;
+  width: 250px;
   padding: 50px;
   float: left;
 }
@@ -79,4 +79,10 @@ div {
   padding: 10px;
   border: 4px;
   margin: auto;
+}
+
+.sidebar {
+  width: 20%;
+  float: right;
+  background-color: lightcyan;
 }
